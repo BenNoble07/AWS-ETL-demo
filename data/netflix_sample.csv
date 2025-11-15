@@ -1,1 +1,6 @@
-
+show_id	type	title	release_year	rating
+s1	Movie	Inception	2010	PG-13
+s2	TV Show	Stranger Things	2016	TV-14
+s3	Movie	The Matrix	1999	R
+s4	TV Show	The Crown	2016	TV-MA
+s5	Movie	Interstellar	2014	PG-13
